@@ -1,0 +1,16 @@
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\bin\Debug\MusicStoreApp.exe.config
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\bin\Debug\MusicStoreApp.exe
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\bin\Debug\MusicStoreApp.pdb
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\bin\Debug\MusicStoreApp.xml
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\obj\Debug\MusicStoreApp.vbprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\obj\Debug\MusicStoreApp.Form1.resources
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\obj\Debug\MusicStoreApp.Resources.resources
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\obj\Debug\MusicStoreApp.vbproj.GenerateResource.Cache
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\obj\Debug\MusicStoreApp.exe
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\obj\Debug\MusicStoreApp.xml
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\obj\Debug\MusicStoreApp.pdb
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\José\Desktop\Proyectos Visual 2015\MusicStoreApp\MusicStoreApp\obj\Debug\MusicStoreApp.vbproj.ResolveComReference.cache
